@@ -53,7 +53,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Arduino Community for the Keypad and Servo libraries.
 
 ## Contributions
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/servo-door-lock-system/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/berkesadam74/servo-door-lock-system/issues).
 
 ---
 
